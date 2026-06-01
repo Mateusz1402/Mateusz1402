@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateusz1402&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" alt="Wykres aktywności" />
-</p>
+
 # Hi, I'm Mateusz! 
 
 <p align="center">
@@ -13,7 +11,9 @@ I am an **Automation and Robotics student at AGH University of Science and Techn
 - 🌐 **Full-stack Development** – building complete, scalable, and responsive web applications.
 - 🗄️ **Database Architecture & ORM** – optimizing data access layers and mastering object-relational mapping (huge fan of Hibernate and SQLAlchemy).
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateusz1402&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" alt="Wykres aktywności" />
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -83,6 +83,5 @@ I am an **Automation and Robotics student at AGH University of Science and Techn
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@student.agh.edu.pl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mateusz-sabat-48b9932b4/)" target="blank">      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"     /></a>
 </p>
