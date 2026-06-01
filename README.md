@@ -13,7 +13,6 @@ I am an **Automation and Robotics student at AGH University of Science and Techn
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateusz1402&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" alt="Wykres aktywności" />
 </p>
 
-### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
@@ -51,8 +50,6 @@ I am an **Automation and Robotics student at AGH University of Science and Techn
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Mateusz1402&label=Profile%20views&color=0e76a8&style=flat-pro" alt="Profile views counter" />
