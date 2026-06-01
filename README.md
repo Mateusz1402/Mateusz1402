@@ -2,7 +2,7 @@
 # Hi, I'm Mateusz! 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e76a8&style=flat-pro" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=Mateusz1402&label=Profile%20views&color=0e76a8&style=flat-pro" alt="Profile views counter" />
 </p>
 
 ### 🚀 About Me
