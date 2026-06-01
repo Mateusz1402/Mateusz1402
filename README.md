@@ -1,9 +1,7 @@
 
 # Hi, I'm Mateusz! 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mateusz1402&label=Profile%20views&color=0e76a8&style=flat-pro" alt="Profile views counter" />
-</p>
+
 
 ### 🚀 About Me
 I am an **Automation and Robotics student at AGH University of Science and Technology** in Kraków, Poland. In the tech world, I combine an engineering approach to systems with a deep passion for software development. My primary areas of interest include:
@@ -36,6 +34,7 @@ I am an **Automation and Robotics student at AGH University of Science and Techn
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
 ---
 
 
@@ -51,4 +50,10 @@ I am an **Automation and Robotics student at AGH University of Science and Techn
   <a href="https://www.linkedin.com/in/mateusz-sabat-48b9932b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Mateusz1402&label=Profile%20views&color=0e76a8&style=flat-pro" alt="Profile views counter" />
 </p>
