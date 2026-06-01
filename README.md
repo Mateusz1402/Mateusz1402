@@ -38,29 +38,6 @@ I am an **Automation and Robotics student at AGH University of Science and Techn
 </p>
 ---
 
-### 🏗️ Current Projects
-
-#### 🌟 [Moya](https://github.com/Mateusz1402/Moya)
-> Add a brief, one-sentence description of what the Moya project is here.
-
-<table>
-  <tr>
-    <td>
-      <p><strong>Key Features:</strong></p>
-      <ul>
-        <li>Utilizing advanced design patterns and ORM for robust data management.</li>
-        <li>Integrating a modern front-end with a solid business logic API.</li>
-        <li>[Add another key technical feature of the project]</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" alt="Status" />
-        <img src="https://img.shields.io/badge/Tech-Java%20%7C%20Spring%20%7C%20React-blue?style=flat-square" alt="Tech" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📈 Current Focus
 - 🔭 **I’m currently working on:** Developing the architecture for the **Moya** project.
@@ -71,5 +48,7 @@ I am an **Automation and Robotics student at AGH University of Science and Techn
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mateusz-sabat-48b9932b4/)" target="blank">      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"     /></a>
+  <a href="https://www.linkedin.com/in/mateusz-sabat-48b9932b4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
