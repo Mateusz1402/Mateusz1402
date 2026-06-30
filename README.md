@@ -38,7 +38,7 @@ I am an **Automation and Robotics student at AGH University of Science and Techn
 
 
 ### 📈 Current Focus
-- 🔭 **I’m currently working on:** Developing the architecture for the **Grocery Shopping List** project.
+- 🔭 **I’m currently working on:** Developing the architecture for the **Shopping Manager** project.
 - 🎓 **I’m currently studying:** Automation and Robotics at **AGH University of Science and Technology**.
 - 🧠 **I’m diving deeper into:** Optimizing neural networks with TensorFlow and mastering complex relationship mapping in Hibernate.
 
